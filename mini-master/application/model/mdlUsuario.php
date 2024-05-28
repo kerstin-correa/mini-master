@@ -1,5 +1,5 @@
 <?php
-//heredar del modelo principal para nuestro caso mdlPersona
+//heredar del modelo principal para nuestro caso mdlPersona YAMINSON SAPO METIDO
 require_once("mdlPersona.php");
 
 //heredamos la clase
